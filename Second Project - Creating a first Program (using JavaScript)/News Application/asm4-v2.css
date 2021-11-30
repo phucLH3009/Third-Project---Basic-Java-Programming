@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    background: lightsalmon;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper h3 {
+    margin-right: 1rem;
+}
+
+.modal-header {
+    border-bottom: none;
+}
+
+.col-auto {
+    padding: 10px;
+}
+
+.row {
+    justify-content: center;
+}
+
+form .error {
+    color: red;
+}
